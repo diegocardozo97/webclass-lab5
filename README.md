@@ -1,2 +1,2 @@
-# webclass-lab5
-Laboratory #5 of the web class
+# Laboratory 5 WebClass
+Laboratory #5 of the web class.
